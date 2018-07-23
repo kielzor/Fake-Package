@@ -1,0 +1,26 @@
+{
+  "name": "@kielzor/fake-package",
+  "version": "1.0.0",
+  "description": "An example npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kielzor/Fake-Package.git"
+  },
+  "author": "Kiel Dehnert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kielzor/Fake-Package/issues"
+  },
+  "homepage": "https://github.com/kielzor/Fake-Package#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
